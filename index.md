@@ -12,6 +12,8 @@ In addition, I would like to say that I also very much hope to set up my own Int
 
 I love soccer very much. My favorite club is **Barcelona**. My favorite player is **Messi**. By the way, Messi just won the Copa America!
 
+I hope people with similar interests can [contact me](https://github.com/Kelvin1003/GitHub-Pages/blob/create-index-md-file/index.md#contact-me)
+
 
 
 <br>
